@@ -15,7 +15,7 @@
 - ✅ **整理 60+ 推文**
 
 ### **GitHub 仓库**
-- ✅ **学习仓库**: https://github.com/srxly888-creator/masfactory-learning
+- ✅ **学习仓库**: https://github.com/srxly888-creator/ai-agent-learning-hub
 - ✅ **记忆备份**: https://github.com/srxly888-creator/openclaw-memory
 - ✅ **Fork 项目**: 12 个（MiroFish, MAS Factory, MagicSkills, OpenViking 等）
 
@@ -53,7 +53,7 @@
 ### **方案 1：单一公开仓库（推荐）**
 
 ```
-masfactory-learning/（公开）
+ai-agent-learning-hub/（公开）
 ├── README.md（导航 + 快速开始）
 ├── 00-quickstart/（快速开始）
 ├── 01-core-concepts/（核心概念）
@@ -256,7 +256,7 @@ Fork（你的账号，公开）
 ## 🔗 重要链接
 
 ### **GitHub 仓库**
-- 学习仓库: https://github.com/srxly888-creator/masfactory-learning
+- 学习仓库: https://github.com/srxly888-creator/ai-agent-learning-hub
 - 记忆备份: https://github.com/srxly888-creator/openclaw-memory
 
 ### **Fork 项目**

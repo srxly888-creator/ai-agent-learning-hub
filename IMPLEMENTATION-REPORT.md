@@ -262,7 +262,7 @@ ai-agent-learning-hub/
 ## 🔗 重要链接
 
 ### **GitHub 仓库**
-- **学习仓库**: https://github.com/srxly888-creator/masfactory-learning
+- **学习仓库**: https://github.com/srxly888-creator/ai-agent-learning-hub
 - **记忆备份**: https://github.com/srxly888-creator/openclaw-memory
 
 ### **关键文件**
