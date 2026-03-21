@@ -5,6 +5,9 @@
 - **推文**: https://x.com/ayi_ainotes/status/2035274445846360123
 - **作者**: 阿绎 AYi (@AYi_AInotes)
 - **时间**: 2026-03-21
+- **GitHub**: https://github.com/666ghj/MiroFish
+- **Fork**: https://github.com/srxly888-creator/MiroFish
+- **Stars**: 37,844
 
 ---
 
