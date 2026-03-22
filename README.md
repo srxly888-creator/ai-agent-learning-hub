@@ -94,9 +94,9 @@ cat 01-fundamentals/what-is-agent.md
 8. **[代码即 Prompt](./05-case-studies/code-as-prompt.md)** - 响马的编程哲学
 
 ### **4. 工具生态（扩展）**
-9. **[Karpathy 多 Agent 协作](./05-case-studies/karpathy-multi-agent.md)** - 10+ Agent 并行
-10. **[90个 AI 工具清单](./03-tools/90-ai-tools-list.md)** - 完整工具生态
-11. **[Auto-Research 学习笔记](../autoresearch/LEARNING.md)** - Karpathy最新项目，    - AI Agent 自主研究框架
+9. **[90个 AI 工具清单](./03-tools/90-ai-tools-list.md)** - 完整工具生态
+10. **[Auto-Research 学习笔记](../autoresearch/LEARNING.md)** - Karpathy最新项目
+    - AI Agent 自主研究框架
     - 消费级GPU完全可用（RTX 4090/3090推荐）
     - 学习价值极高
 
@@ -147,7 +147,8 @@ ai-agent-learning-hub/
 
 ### **精选项目（按 Stars 排序）**
 
-> **💡 Stars 数据每天自动更新** | 最后更新: 2026-03-22 16:26
+> **⚠️ Stars 数据手动更新** | 最后更新: 2026-03-22 16:27
+> **注意**: GitHub Actions 正在配置中，暂时手动更新
 
 | 项目 | Stars | 特点 | GitHub | 学习价值 |
 |------|-------|------|--------|----------|
@@ -160,7 +161,7 @@ ai-agent-learning-hub/
 | **MAS Factory** | ~129 | Vibe Graphing | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) | ⭐⭐⭐⭐ |
 | **Cherry Studio** | ~27 | AI客户端 | [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) | ⭐⭐⭐ |
 
-**📊 实时数据**: 查看 [stars.json](./stars.json) 获取最新 Stars 数量
+**📊 数据来源**: 查看 [stars.json](./stars.json) 获取最新 Stars 数量（手动验证）
 
 ---
 
@@ -228,10 +229,10 @@ find . -name "*.md" | xargs grep "关键词"
 
 | 指标 | 数量 |
 |------|------|
-| **学习文档** | 50+ |
-| **实战案例** | 10+ |
-| **工具清单** | 90+ |
-| **Fork 项目** | 13 |
+| **学习文档** | 76 |
+| **实战案例** | 3 |
+| **工具清单** | 10 |
+| **Fork 项目** | 12 |
 | **总 Stars** | 227,766+ |
 
 ---
