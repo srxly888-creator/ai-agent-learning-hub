@@ -146,7 +146,7 @@ ai-agent-learning-hub/
 
 | 项目 | Stars | 团队 | 特点 | GitHub |
 |------|-------|------|------|--------|
-| **MiroFish** | ~38k | 北邮学生 | 10天完成，已在赚钱 | [wuyayru/MiroFish](https://github.com/wuyayru/MiroFish) |
+| **MiroFish** | ~38k | 北邮学生 | 10天完成，已在赚钱 | [nopinduoduo/MiroFish](https://github.com/nopinduoduo/MiroFish) |
 | **OpenViking** | ~17k | 字节 | Token 砍半，完成率+40% | [nopinduoduo/OpenViking](https://github.com/nopinduoduo/OpenViking) |
 | **OpenSage** | - | 中国团队 | ICML 2026，自编程 ADK | [论文](http://arxiv.org/abs/2603.xxxxx) |
 | **MAS Factory** | ~125 | 北邮 | Vibe Graphing，自然语言生成工作流 | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
