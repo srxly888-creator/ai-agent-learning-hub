@@ -138,7 +138,7 @@ ai-agent-learning-hub/
 | **MiroFish** | 37,844 | 北邮学生 | 10天完成，已在赚钱 | ⭐⭐⭐⭐⭐ |
 | **OpenViking** | 17,338 | 字节 | Token 砍半，完成率+40% | ⭐⭐⭐⭐⭐ |
 | **OpenSage** | - | 中国团队 | ICML 2026，自编程 ADK | ⭐⭐⭐⭐⭐ |
-| **MAS Factory** | 125 | 北邮 | 多智能体编排 | ⭐⭐⭐⭐ |
+| **MAS Factory** | 125 | 北邮 | Vibe Graphing，自然语言生成工作流 | ⭐⭐⭐⭐ |
 | **TradingAgents** | 30,000+ | 中国团队 | 30.5% 年化收益 | ⭐⭐⭐⭐ |
 
 ---
