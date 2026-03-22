@@ -143,17 +143,20 @@ ai-agent-learning-hub/
 
 ## 🌟 重磅推荐
 
-### **中国开源力量（60%+）**
+### **精选项目（按学习价值排序）**
 
 > **💡 Stars 数据每天自动更新** | 最后更新: 2026-03-22
 
-| 项目 | Stars | 团队 | 特点 | GitHub |
-|------|-------|------|------|--------|
-| **MiroFish** | ~38.6k | 666ghj | 群体智能引擎，预测万物 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
-| **OpenViking** | ~17.6k | 字节跳动 | Token 砍半，完成率+40% | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) |
-| **OpenSage** | - | 中国团队 | ICML 2026，自编程 ADK | [论文](http://arxiv.org/abs/2603.xxxxx) |
-| **MAS Factory** | ~128 | 北邮 GAMMA | Vibe Graphing，自然语言生成工作流 | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
-| **TradingAgents** | ~2.6k | TraderAlice | 30.5% 年化收益 | [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) |
+| 项目 | Stars | 特点 | GitHub | 学习价值 |
+|------|-------|------|--------|----------|
+| **LangGraph** | 40k+ | 图结构工作流编排 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐⭐⭐⭐⭐ |
+| **Cherry Studio** | 42k+ | AI客户端，开发工具 | [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) | ⭐⭐⭐⭐⭐ |
+| **Swarm** | 21k+ | OpenAI多智能体协作 | [openai/swarm](https://github.com/openai/swarm) | ⭐⭐⭐⭐⭐ |
+| **MiroFish** | ~38.6k | 群体智能引擎 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ⭐⭐⭐⭐⭐ |
+| **GPT Researcher** | 26k+ | 自主研究Agent | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐⭐⭐⭐ |
+| **OpenViking** | ~17.6k | 分层记忆系统 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ⭐⭐⭐⭐ |
+| **MAS Factory** | ~128 | Vibe Graphing | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) | ⭐⭐⭐⭐ |
+| **Auto-Research** | - | Karpathy最新 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐⭐⭐⭐⭐ |
 
 **📊 实时数据**: 查看 [stars.json](./stars.json) 获取最新 Stars 数量
 
