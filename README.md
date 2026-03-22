@@ -142,13 +142,17 @@ ai-agent-learning-hub/
 
 ### **中国开源力量（60%+）**
 
+> **💡 Stars 数据每天自动更新** | 最后更新: 2026-03-22
+
 | 项目 | Stars | 团队 | 特点 | 学习价值 | 链接 |
 |------|-------|------|------|----------|------|
-| **MiroFish** | 37,844 | 北邮学生 | 10天完成，已在赚钱 | ⭐⭐⭐⭐⭐ | [GitHub](https://github.com/wuyayru/MiroFish) |
-| **OpenViking** | 17,338 | 字节 | Token 砍半，完成率+40% | ⭐⭐⭐⭐⭐ | [GitHub](https://github.com/nopinduoduo/OpenViking) |
+| **MiroFish** | ~38k | 北邮学生 | 10天完成，已在赚钱 | ⭐⭐⭐⭐⭐ | [GitHub](https://github.com/wuyayru/MiroFish) |
+| **OpenViking** | ~17k | 字节 | Token 砍半，完成率+40% | ⭐⭐⭐⭐⭐ | [GitHub](https://github.com/nopinduoduo/OpenViking) |
 | **OpenSage** | - | 中国团队 | ICML 2026，自编程 ADK | ⭐⭐⭐⭐⭐ | [论文](http://arxiv.org/abs/2603.xxxxx) |
-| **MAS Factory** | 125 | 北邮 | Vibe Graphing，自然语言生成工作流 | ⭐⭐⭐⭐ | [GitHub](https://github.com/BUPT-GAMMA/MASFactory) |
-| **TradingAgents** | 30,000+ | 中国团队 | 30.5% 年化收益 | ⭐⭐⭐⭐ | [GitHub](https://github.com/Ai4Finance/TradingAgents) |
+| **MAS Factory** | ~125 | 北邮 | Vibe Graphing，自然语言生成工作流 | ⭐⭐⭐⭐ | [GitHub](https://github.com/BUPT-GAMMA/MASFactory) |
+| **TradingAgents** | ~30k | 中国团队 | 30.5% 年化收益 | ⭐⭐⭐⭐ | [GitHub](https://github.com/Ai4Finance/TradingAgents) |
+
+**📊 实时数据**: 查看 [stars.json](./stars.json) 获取最新 Stars 数量
 
 ---
 

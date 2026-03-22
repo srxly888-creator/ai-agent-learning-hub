@@ -1,0 +1,73 @@
+name: Update GitHub Stars
+
+on:
+  schedule:
+    # 每天凌晨 2 点运行
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 手动触发
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Fetch GitHub Stars
+      run: |
+        # 定义仓库列表
+        REPOS=(
+          "wuyayru/MiroFish"
+          "nopinduoduo/OpenViking"
+          "BUPT-GAMMA/MASFactory"
+          "Ai4Finance/TradingAgents"
+          "cherry-studio/cherry-studio"
+          "langchain-ai/langgraph"
+          "openai/swarm"
+        )
+        
+        # 创建 JSON 文件
+        echo "{" > stars.json
+        echo "  \"date\": \"$(date -Iseconds)\"," >> stars.json
+        echo "  \"repos\": {" >> stars.json
+        
+        first=true
+        for repo in "${REPOS[@]}"; do
+          stars=$(curl -s "https://api.github.com/repos/$repo" | jq -r '.stargazers_count // 0')
+          
+          if [ "$first" = true ]; then
+            first=false
+          else
+            echo "," >> stars.json
+          fi
+          
+          echo "    \"$repo\": $stars" >> stars.json
+        done
+        
+        echo "" >> stars.json
+        echo "  }" >> stars.json
+        echo "}" >> stars.json
+        
+    - name: Update README
+      run: |
+        # 读取 Stars 数据
+        MIROFISH=$(jq -r '.repos["wuyayru/MiroFish"]' stars.json)
+        OPENVIKING=$(jq -r '.repos["nopinduoduo/OpenViking"]' stars.json)
+        MASFACTORY=$(jq -r '.repos["BUPT-GAMMA/MASFactory"]' stars.json)
+        TRADING=$(jq -r '.repos["Ai4Finance/TradingAgents"]' stars.json)
+        CHERRY=$(jq -r '.repos["cherry-studio/cherry-studio"]' stars.json)
+        
+        # 更新 README 中的 Stars 数量
+        sed -i "s/| \*\*MiroFish\*\* | [0-9,]* |/| **MiroFish** | $(printf "%'d" $MIROFISH) |/" README.md
+        sed -i "s/| \*\*OpenViking\*\* | [0-9,]* |/| **OpenViking** | $(printf "%'d" $OPENVIKING) |/" README.md
+        sed -i "s/| \*\*MAS Factory\*\* | [0-9,]* |/| **MAS Factory** | $(printf "%'d" $MASFACTORY) |/" README.md
+        sed -i "s/| \*\*TradingAgents\*\* | [0-9,]* |/| **TradingAgents** | $(printf "%'d" $TRADING) |/" README.md
+        
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md stars.json
+        git commit -m "自动更新 Stars 数量 - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
