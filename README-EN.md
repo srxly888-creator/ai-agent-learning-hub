@@ -141,17 +141,17 @@ ai-agent-learning-hub/
 
 ## 🌟 Featured Projects
 
-> **💡 Stars data auto-updates daily** | Last updated: 2026-03-22
+> **💡 Stars data auto-updates daily** | Last updated: 2026-03-22 16:26
 
 ### **Global Projects (High Learning Value)**
 
 | Project | Stars | Team | Highlights | GitHub |
 |---------|-------|------|------------|--------|
+| **Auto-Research** | ~48.8k | Karpathy | Latest project, Agent-driven research | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) |
 | **MiroFish** | ~38.7k | 666ghj | Swarm intelligence engine, predicts everything | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
 | **LangGraph** | ~27.1k | LangChain | Graph-based workflow orchestration | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
 | **GPT Researcher** | ~25.9k | Tavily | Autonomous research Agent | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) |
 | **Swarm** | ~21.2k | OpenAI | Multi-agent collaboration | [openai/swarm](https://github.com/openai/swarm) |
-| **Auto-Research** | - | Karpathy | Latest project, Agent-driven research | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) |
 
 ### **Chinese Open Source (High Quality)**
 
@@ -160,7 +160,7 @@ ai-agent-learning-hub/
 | **OpenViking** | ~17.6k | ByteDance | 50% token reduction, 40% completion boost | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) |
 | **OpenSage** | - | Chinese Team | ICML 2026, self-programming ADK | [Paper](http://arxiv.org/abs/2603.xxxxx) |
 | **MAS Factory** | ~129 | BUPT GAMMA | Vibe Graphing, natural language workflow generation | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
-| **TradingAgents** | ~2.6k | TraderAlice | 30.5% annualized returns | [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) |
+| **Cherry Studio** | ~27 | Cherry | AI Client | [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) |
 
 **📊 Real-time Data**: Check [stars.json](./stars.json) for latest Stars counts
 

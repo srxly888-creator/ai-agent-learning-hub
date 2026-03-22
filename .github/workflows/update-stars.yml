@@ -16,15 +16,16 @@ jobs:
       
     - name: Fetch GitHub Stars
       run: |
-        # 定义仓库列表
+        # 定义仓库列表（已验证）
         REPOS=(
-          "wuyayru/MiroFish"
-          "nopinduoduo/OpenViking"
-          "BUPT-GAMMA/MASFactory"
-          "Ai4Finance/TradingAgents"
-          "cherry-studio/cherry-studio"
+          "karpathy/autoresearch"
+          "666ghj/MiroFish"
           "langchain-ai/langgraph"
+          "assafelovic/gpt-researcher"
           "openai/swarm"
+          "volcengine/OpenViking"
+          "BUPT-GAMMA/MASFactory"
+          "kangfenmao/cherry-studio"
         )
         
         # 创建 JSON 文件
@@ -52,17 +53,24 @@ jobs:
     - name: Update README
       run: |
         # 读取 Stars 数据
-        MIROFISH=$(jq -r '.repos["wuyayru/MiroFish"]' stars.json)
-        OPENVIKING=$(jq -r '.repos["nopinduoduo/OpenViking"]' stars.json)
+        AUTORESEARCH=$(jq -r '.repos["karpathy/autoresearch"]' stars.json)
+        MIROFISH=$(jq -r '.repos["666ghj/MiroFish"]' stars.json)
+        LANGGRAPH=$(jq -r '.repos["langchain-ai/langgraph"]' stars.json)
+        GPTRESEARCHER=$(jq -r '.repos["assafelovic/gpt-researcher"]' stars.json)
+        SWARM=$(jq -r '.repos["openai/swarm"]' stars.json)
+        OPENVIKING=$(jq -r '.repos["volcengine/OpenViking"]' stars.json)
         MASFACTORY=$(jq -r '.repos["BUPT-GAMMA/MASFactory"]' stars.json)
-        TRADING=$(jq -r '.repos["Ai4Finance/TradingAgents"]' stars.json)
-        CHERRY=$(jq -r '.repos["cherry-studio/cherry-studio"]' stars.json)
+        CHERRYSTUDIO=$(jq -r '.repos["kangfenmao/cherry-studio"]' stars.json)
         
         # 更新 README 中的 Stars 数量
-        sed -i "s/| \*\*MiroFish\*\* | [0-9,]* |/| **MiroFish** | $(printf "%'d" $MIROFISH) |/" README.md
-        sed -i "s/| \*\*OpenViking\*\* | [0-9,]* |/| **OpenViking** | $(printf "%'d" $OPENVIKING) |/" README.md
-        sed -i "s/| \*\*MAS Factory\*\* | [0-9,]* |/| **MAS Factory** | $(printf "%'d" $MASFACTORY) |/" README.md
-        sed -i "s/| \*\*TradingAgents\*\* | [0-9,]* |/| **TradingAgents** | $(printf "%'d" $TRADING) |/" README.md
+        sed -i "s/| \*\*Auto-Research\*\* | ~[0-9.]*k/| **Auto-Research** | ~$(echo "scale=1; $AUTORESEARCH/1000" | bc)k/" README.md
+        sed -i "s/| \*\*MiroFish\*\* | ~[0-9.]*k/| **MiroFish** | ~$(echo "scale=1; $MIROFISH/1000" | bc)k/" README.md
+        sed -i "s/| \*\*LangGraph\*\* | ~[0-9.]*k/| **LangGraph** | ~$(echo "scale=1; $LANGGRAPH/1000" | bc)k/" README.md
+        sed -i "s/| \*\*GPT Researcher\*\* | ~[0-9.]*k/| **GPT Researcher** | ~$(echo "scale=1; $GPTRESEARCHER/1000" | bc)k/" README.md
+        sed -i "s/| \*\*Swarm\*\* | ~[0-9.]*k/| **Swarm** | ~$(echo "scale=1; $SWARM/1000" | bc)k/" README.md
+        sed -i "s/| \*\*OpenViking\*\* | ~[0-9.]*k/| **OpenViking** | ~$(echo "scale=1; $OPENVIKING/1000" | bc)k/" README.md
+        sed -i "s/| \*\*MAS Factory\*\* | ~[0-9]*/| **MAS Factory** | ~$MASFACTORY/" README.md
+        sed -i "s/| \*\*Cherry Studio\*\* | ~[0-9]*/| **Cherry Studio** | ~$CHERRYSTUDIO/" README.md
         
     - name: Commit changes
       run: |
