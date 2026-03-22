@@ -95,7 +95,7 @@ cat 01-fundamentals/what-is-agent.md
 
 ### **4. 工具生態（擴展）**
 9. **[90個 AI 工具清單](./03-tools/90-ai-tools-list.md)** - 完整工具生態
-10. **[Auto-Research 學習筆記](../autoresearch/LEARNING.md)** - Karpathy最新項目
+10. **[Auto-Research 學習筆記](https://github.com/srxly888-creator/autoresearch/blob/main/LEARNING.md)** - Karpathy最新項目
 
 ---
 

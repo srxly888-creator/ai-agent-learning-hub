@@ -95,7 +95,7 @@ cat 01-fundamentals/what-is-agent.md
 
 ### **4. 工具生态（扩展）**
 9. **[90个 AI 工具清单](./03-tools/90-ai-tools-list.md)** - 完整工具生态
-10. **[Auto-Research 学习笔记](../autoresearch/LEARNING.md)** - Karpathy最新项目
+10. **[Auto-Research 学习笔记](https://github.com/srxly888-creator/autoresearch/blob/main/LEARNING.md)** - Karpathy最新项目
     - AI Agent 自主研究框架
     - 消费级GPU完全可用（RTX 4090/3090推荐）
     - 学习价值极高
