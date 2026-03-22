@@ -85,12 +85,11 @@ cat 01-fundamentals/what-is-agent.md
 ### **2. 核心框架（进阶）**
 4. **[OpenSage 论文解读](./04-advanced/opensage-icml2026.md)** - ICML 2026，自编程 ADK
 5. **[OpenViking 记忆系统](./02-frameworks/openviking.md)** - Token 砍半，分层记忆
-6. **[MiroFish 预测引擎](./04-advanced/mirofish-prediction.md)** - 37k Stars，10天完成
+6. **[MiroFish 预测引擎](./05-case-studies/mirofish-prediction.md)** - 38k Stars，10天完成
 
 ### **3. 实战案例（应用）**
 7. **[Polymarket 套利案例](./05-case-studies/polymarket-arbitrage.md)** - 16岁高中生赚钱实战
-8. **[Karpathy 多 Agent 协作](./05-case-studies/karpathy-multi-agent.md)** - 10+ Agent 并行
-9. **[代码即 Prompt](./05-case-studies/code-as-prompt.md)** - 响马的编程哲学
+8. **[代码即 Prompt](./05-case-studies/code-as-prompt.md)** - 响马的编程哲学
 
 ### **4. 工具生态（扩展）**
 10. **[90个 AI 工具清单](./03-tools/90-ai-tools-list.md)** - 完整工具生态
