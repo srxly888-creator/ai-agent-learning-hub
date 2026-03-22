@@ -1,8 +1,8 @@
 # MAS Factory 快速开始指南（修复版）
 
-> **修复时间**: 2026-03-22 12:11
-> **问题**: 原链接 `/01-fundamentals/masfactory-quickstart.md` 不存在
-> **解决方案**: 创建此文件
+> **修复时间**: 2026-03-22 13:20
+> **问题**: GitHub 链接错误（nopinduoduo → BUPT-GAMMA）
+> **解决方案**: 修正为官方仓库链接
 
 ---
 
@@ -13,8 +13,9 @@ MAS Factory 是一个多智能体编排框架，可以帮助你：
 - 🔄 **自动编排多个 AI 智能体**
 - 🎯 **用自然语言描述任务，让 AI 执行**
 
-**GitHub**: https://github.com/nopinduoduo/MASFactory  
-**Stars**: 125+**开发**: 北邮 GAMMA 实验室
+**GitHub**: https://github.com/BUPT-GAMMA/MASFactory
+**Stars**: 125+
+**开发**: 北邮 GAMMA 实验室
 
 ---
 
@@ -78,7 +79,8 @@ workflow.run("分析这个数据集并生成报告")
 - AI 自动生成工作流图
 
 ### **2. 双模型策略**
-- **规划模型**: 理解任务，- **执行模型**: 执行具体操作
+- **规划模型**: 理解任务，分解步骤
+- **执行模型**: 执行具体操作
 - 成本优化
 
 ### **3. 开源**
@@ -90,7 +92,7 @@ workflow.run("分析这个数据集并生成报告")
 
 ## 📚 学习资源
 
-- **官方文档**: https://github.com/nopinduoduo/MASFactory
+- **官方文档**: https://github.com/BUPT-GAMMA/MASFactory
 - **VS Code 插件**: 搜索 "MAS Factory Visualizer"
 - **社区**: GitHub Issues
 
@@ -113,8 +115,7 @@ workflow.run("分析这个数据集并生成报告")
 A: 支持 OpenAI、Claude、Gemini、GLM 等
 
 ### **Q: 是否需要 GPU？**
-A: 不需要，MAS Factory 只负责编排
-不负责模型推理
+A: 不需要，MAS Factory 只负责编排，不负责模型推理
 
 ### **Q: 如何调试？**
 A: 使用 VS Code 插件可视化工作流
@@ -123,10 +124,10 @@ A: 使用 VS Code 插件可视化工作流
 
 ## 🔗 相关链接
 
-- **GitHub**: https://github.com/nopinduoduo/MASFactory
+- **GitHub**: https://github.com/BUPT-GAMMA/MASFactory
 - **VS Code 插件**: 搜索 "MAS Factory Visualizer"
 - **学习仓库**: https://github.com/srxly888-creator/ai-agent-learning-hub
 
 ---
 
-**修复完成！链接已更新为**
+**修复完成！链接已更新为官方仓库**
