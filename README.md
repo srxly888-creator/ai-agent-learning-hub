@@ -146,7 +146,7 @@ ai-agent-learning-hub/
 
 | 项目 | Stars | 团队 | 特点 | GitHub |
 |------|-------|------|------|--------|
-| **MiroFish** | ~1.1k | nikmcfly | 离线版MiroFish，支持本地运行 | [nikmcfly/MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline) |
+| **MiroFish** | ~38.6k | 666ghj | 群体智能引擎，预测万物 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
 | **OpenViking** | ~17.6k | 字节跳动 | Token 砍半，完成率+40% | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) |
 | **OpenSage** | - | 中国团队 | ICML 2026，自编程 ADK | [论文](http://arxiv.org/abs/2603.xxxxx) |
 | **MAS Factory** | ~128 | 北邮 GAMMA | Vibe Graphing，自然语言生成工作流 | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
