@@ -92,7 +92,11 @@ cat 01-fundamentals/what-is-agent.md
 8. **[代码即 Prompt](./05-case-studies/code-as-prompt.md)** - 响马的编程哲学
 
 ### **4. 工具生态（扩展）**
+9. **[Karpathy 多 Agent 协作](./05-case-studies/karpathy-multi-agent.md)** - 10+ Agent 并行
 10. **[90个 AI 工具清单](./03-tools/90-ai-tools-list.md)** - 完整工具生态
+11. **[Auto-Research 学习笔记](../autoresearch/LEARNING.md)** - Karpathy最新项目，    - AI Agent 自主研究框架
+    - 消费级GPU完全可用（RTX 4090/3090推荐）
+    - 学习价值极高
 
 ---
 
