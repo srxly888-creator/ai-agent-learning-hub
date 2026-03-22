@@ -146,11 +146,11 @@ ai-agent-learning-hub/
 
 | 项目 | Stars | 团队 | 特点 | GitHub |
 |------|-------|------|------|--------|
-| **MiroFish** | ~38k | 北邮学生 | 10天完成，已在赚钱 | [nopinduoduo/MiroFish](https://github.com/nopinduoduo/MiroFish) |
-| **OpenViking** | ~17k | 字节 | Token 砍半，完成率+40% | [nopinduoduo/OpenViking](https://github.com/nopinduoduo/OpenViking) |
+| **MiroFish** | ~1.1k | nikmcfly | 离线版MiroFish，支持本地运行 | [nikmcfly/MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline) |
+| **OpenViking** | ~17.6k | 字节跳动 | Token 砍半，完成率+40% | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) |
 | **OpenSage** | - | 中国团队 | ICML 2026，自编程 ADK | [论文](http://arxiv.org/abs/2603.xxxxx) |
-| **MAS Factory** | ~125 | 北邮 | Vibe Graphing，自然语言生成工作流 | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
-| **TradingAgents** | ~30k | 中国团队 | 30.5% 年化收益 | [Ai4Finance/TradingAgents](https://github.com/Ai4Finance/TradingAgents) |
+| **MAS Factory** | ~128 | 北邮 GAMMA | Vibe Graphing，自然语言生成工作流 | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
+| **TradingAgents** | ~2.6k | TraderAlice | 30.5% 年化收益 | [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) |
 
 **📊 实时数据**: 查看 [stars.json](./stars.json) 获取最新 Stars 数量
 
