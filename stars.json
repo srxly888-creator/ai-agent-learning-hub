@@ -1,13 +1,12 @@
 {
-  "date": "2026-03-22T13:30:00+08:00",
+  "date": "2026-03-22T16:25:00+08:00",
   "repos": {
-    "wuyayru/MiroFish": 37844,
-    "nopinduoduo/OpenViking": 17338,
-    "BUPT-GAMMA/MASFactory": 125,
-    "Ai4Finance/TradingAgents": 30000,
-    "cherry-studio/cherry-studio": 41981,
-    "langchain-ai/langgraph": 31557,
-    "openai/swarm": 21202
+    "666ghj/MiroFish": 38745,
+    "volcengine/OpenViking": 17631,
+    "BUPT-GAMMA/MASFactory": 129,
+    "langchain-ai/langgraph": 27112,
+    "openai/swarm": 21204,
+    "assafelovic/gpt-researcher": 25915
   },
   "note": "此文件由 GitHub Actions 自动更新，每天凌晨 2:00 (UTC)"
 }

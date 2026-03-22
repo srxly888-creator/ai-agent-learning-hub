@@ -147,19 +147,19 @@ ai-agent-learning-hub/
 
 | Project | Stars | Team | Highlights | GitHub |
 |---------|-------|------|------------|--------|
-| **LangGraph** | ~40k | LangChain | Graph-based workflow orchestration | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
-| **Swarm** | ~21k | OpenAI | Multi-agent collaboration | [openai/swarm](https://github.com/openai/swarm) |
-| **GPT Researcher** | ~26k | Tavily | Autonomous research Agent | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) |
+| **MiroFish** | ~38.7k | 666ghj | Swarm intelligence engine, predicts everything | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
+| **LangGraph** | ~27.1k | LangChain | Graph-based workflow orchestration | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
+| **GPT Researcher** | ~25.9k | Tavily | Autonomous research Agent | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) |
+| **Swarm** | ~21.2k | OpenAI | Multi-agent collaboration | [openai/swarm](https://github.com/openai/swarm) |
 | **Auto-Research** | - | Karpathy | Latest project, Agent-driven research | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) |
 
 ### **Chinese Open Source (High Quality)**
 
 | Project | Stars | Team | Highlights | GitHub |
 |---------|-------|------|------------|--------|
-| **MiroFish** | ~38.6k | 666ghj | Swarm intelligence engine, predicts everything | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
 | **OpenViking** | ~17.6k | ByteDance | 50% token reduction, 40% completion boost | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) |
 | **OpenSage** | - | Chinese Team | ICML 2026, self-programming ADK | [Paper](http://arxiv.org/abs/2603.xxxxx) |
-| **MAS Factory** | ~128 | BUPT GAMMA | Vibe Graphing, natural language workflow generation | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
+| **MAS Factory** | ~129 | BUPT GAMMA | Vibe Graphing, natural language workflow generation | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) |
 | **TradingAgents** | ~2.6k | TraderAlice | 30.5% annualized returns | [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) |
 
 **📊 Real-time Data**: Check [stars.json](./stars.json) for latest Stars counts
