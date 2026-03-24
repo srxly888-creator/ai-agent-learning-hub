@@ -14,7 +14,6 @@ MAS Factory 是一个多智能体编排框架，可以帮助你：
 - 🎯 **用自然语言描述任务，让 AI 执行**
 
 **GitHub**: https://github.com/BUPT-GAMMA/MASFactory
-**Stars**: 125+
 **开发**: 北邮 GAMMA 实验室
 
 ---
