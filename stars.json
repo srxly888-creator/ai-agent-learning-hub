@@ -1,14 +1,21 @@
 {
-  "date": "2026-03-22T16:26:00+08:00",
+  "date": "2026-03-24T12:55:53+00:00",
   "repos": {
-    "666ghj/MiroFish": 38745,
-    "volcengine/OpenViking": 17631,
-    "BUPT-GAMMA/MASFactory": 129,
-    "langchain-ai/langgraph": 27112,
-    "openai/swarm": 21204,
-    "assafelovic/gpt-researcher": 25915,
-    "kangfenmao/cherry-studio": 27,
-    "karpathy/autoresearch": 48810
-  },
-  "note": "此文件由 GitHub Actions 自动更新，每天凌晨 2:00 (UTC)"
+    "karpathy/autoresearch": 53431
+,
+    "666ghj/MiroFish": 41401
+,
+    "langchain-ai/langgraph": 27343
+,
+    "assafelovic/gpt-researcher": 25994
+,
+    "openai/swarm": 21215
+,
+    "volcengine/OpenViking": 18658
+,
+    "BUPT-GAMMA/MASFactory": 137
+,
+    "kangfenmao/cherry-studio": 28
+
+  }
 }
