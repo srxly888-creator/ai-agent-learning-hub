@@ -6,13 +6,16 @@ on:
     - cron: '0 2 * * *'
   workflow_dispatch: # 手动触发
 
+permissions:
+  contents: write
+
 jobs:
   update-stars:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
     - name: Fetch GitHub Stars
       run: |
