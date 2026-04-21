@@ -16,31 +16,31 @@
 ## 📚 快速导航
 
 ### **🚀 5分钟入门**
-- [MAS Factory 快速开始](./01-quickstart/masfactory-quickstart.md)
-- [OpenViking 安装指南](./01-quickstart/openviking-install.md)
-- [MiroFish 体验](./01-quickstart/mirofish-demo.md)
+- [MAS Factory 快速开始](./01-fundamentals/masfactory-quickstart.md)
+- [OpenViking 安装指南](./02-frameworks/openviking.md)
+- [MiroFish 体验](./05-case-studies/mirofish-prediction.md)
 
 ### **📖 核心概念**
-- [Vibe Coding 是什么](./02-core-concepts/vibe-coding.md)
-- [多智能体协作](./02-core-concepts/multi-agent-collaboration.md)
-- [记忆系统（L0/L1/L2）](./02-core-concepts/memory-systems.md)
-- [Skill 基础设施](./02-core-concepts/skill-infrastructure.md)
+- [Vibe Coding 是什么](./01-fundamentals/vibe-coding-intro.md)
+- [多智能体协作](./01-fundamentals/multi-agent-systems.md)
+- [记忆系统（L0/L1/L2）](./04-advanced/msa-memory.md)
+- [Skill 基础设施](./02-frameworks/magicskills.md)
 
 ### **🛠️ 工具生态**
 - [90+ AI 工具清单](./03-tools/90-ai-tools-list.md)
-- [Skills Manager](./03-tools/skills-manager.md)
-- [MagicSkills](./03-tools/magicskills.md)
+- [Skills Manager](./02-frameworks/skills-manager.md)
+- [MagicSkills](./02-frameworks/magicskills.md)
 - [Polymarket 交易工具](./03-tools/polymarket-tools.md)
 
 ### **💼 实战案例**
-- [16岁高中生 Polymarket 套利](./04-case-studies/polymarket-arbitrage.md)
-- [MiroFish 预测赚钱](./04-case-studies/mirofish-prediction.md)
-- [Karpathy 多 Agent 协作](./04-case-studies/karpathy-multi-agent.md)
+- [16岁高中生 Polymarket 套利](./05-case-studies/polymarket-arbitrage.md)
+- [MiroFish 预测赚钱](./05-case-studies/mirofish-prediction.md)
+- Karpathy 多 Agent 协作
 
 ### **🔬 前沿研究**
-- [OpenSage（ICML 2026）](./05-research/opensage-icml2026.md)
-- [MSA 记忆机制](./05-research/msa-memory.md)
-- [OpenViking（字节）](./05-research/openviking-bytebeat.md)
+- [OpenSage（ICML 2026）](./04-advanced/opensage-icml2026.md)
+- [MSA 记忆机制](./04-advanced/msa-memory.md)
+- [OpenViking（字节）](./02-frameworks/openviking.md)
 
 ---
 

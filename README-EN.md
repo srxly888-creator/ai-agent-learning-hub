@@ -95,7 +95,7 @@ cat what-is-agent.md
 8. **[Code as Prompt](./05-case-studies/code-as-prompt.md)** - Xiangma's programming philosophy
 
 ### **4. Tool Ecosystem (Extended)**
-9. **[Karpathy Multi-Agent Collaboration](./05-case-studies/karpathy-multi-agent.md)** - 10+ Agents in parallel
+9. **Karpathy Multi-Agent Collaboration** - 10+ Agents in parallel
 10. **[90 AI Tools List](./03-tools/90-ai-tools-list.md)** - Complete tool ecosystem
 
 ---
@@ -265,7 +265,7 @@ We welcome all forms of contribution!
 
 ## 📄 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see LICENSE file for details
 
 ---
 

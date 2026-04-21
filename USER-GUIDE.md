@@ -43,7 +43,7 @@ bash clone-all.sh
 
 ### **高级（第1月）**
 1. 研究 [OpenSage 论文](./04-advanced/opensage-icml2026.md)
-2. 理解 [MiroFish 预测引擎](./04-advanced/mirofish-prediction.md)
+2. 理解 [MiroFish 预测引擎](./05-case-studies/mirofish-prediction.md)
 3. 贡献代码
 
 ---

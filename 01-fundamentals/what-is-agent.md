@@ -158,7 +158,7 @@ Agent：
 ## 📚 学习路径
 
 ### **下一步**
-1. [Agent 架构详解](./agent-architecture.md)
+1. Agent 架构详解
 2. [多智能体系统](./multi-agent-systems.md)
 3. [Vibe Coding 方法论](./vibe-coding-intro.md)
 

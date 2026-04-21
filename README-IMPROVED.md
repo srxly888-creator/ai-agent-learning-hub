@@ -68,16 +68,16 @@ cat what-is-agent.md
 ### **1. 基础概念（必读）**
 1. **[什么是 AI Agent](./01-fundamentals/what-is-agent.md)** - 5分钟理解核心概念
 2. **[MAS Factory 快速开始](./01-fundamentals/masfactory-quickstart.md)** - 10分钟运行第一个 Agent
-3. **[Vibe Coding 方法论](./01-fundamentals/vibe-coding.md)** - 理解自然语言编程
+3. **[Vibe Coding 方法论](./01-fundamentals/vibe-coding-intro.md)** - 理解自然语言编程
 
 ### **2. 核心框架（进阶）**
 4. **[OpenSage 论文解读](./04-advanced/opensage-icml2026.md)** - ICML 2026，自编程 ADK
-5. **[OpenViking 记忆系统](./02-frameworks/openviking-memory.md)** - Token 砍半，分层记忆
-6. **[MiroFish 预测引擎](./04-advanced/mirofish-prediction.md)** - 37k Stars, 10天完成
+5. **[OpenViking 记忆系统](./02-frameworks/openviking.md)** - Token 砍半，分层记忆
+6. **[MiroFish 预测引擎](./05-case-studies/mirofish-prediction.md)** - 37k Stars, 10天完成
 
 ### **3. 实战案例（应用）**
 7. **[Polymarket 套利案例](./05-case-studies/polymarket-arbitrage.md)** - 16岁高中生赚钱实战
-8. **[Karpathy 多 Agent 协作](./05-case-studies/karpathy-multi-agent.md)** - 10+ Agent 并行
+8. **Karpathy 多 Agent 协作** - 10+ Agent 并行
 9. **[代码即 Prompt](./05-case-studies/code-as-prompt.md)** - 响马的编程哲学
 
 ### **4. 工具生态（扩展）**
@@ -223,7 +223,7 @@ Level 3: AI 自动创建 Agent + 拓扑 + 工具（OpenSage）
 
 ## 📜 许可证
 
-[MIT License](LICENSE)
+MIT License
 
 ---
 

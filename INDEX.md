@@ -12,35 +12,35 @@
 ## 🔥 核心项目
 
 ### **1. MAS Factory**
-- [快速开始](./MASFACTORY_QUICKSTART.md)
+- [快速开始](./01-fundamentals/masfactory-quickstart.md)
 - [深度研究](./MASFACTORY_DEEP_DIVE.md)
-- [学习链接](./MASFACTORY_LEARNING_LINK.md)
-- [工作流配置](./masfactory-workflow/SKILL.md)
+- 学习链接
+- 工作流配置
 
 ### **2. MiroFish**
-- [群体智能引擎](./mirofish-swarm-intelligence.md)
-- [预测赚钱案例](./polymarket-arbitrage-case.md)
+- [群体智能引擎](./05-case-studies/mirofish-prediction.md)
+- [预测赚钱案例](./05-case-studies/polymarket-arbitrage.md)
 
 ### **3. OpenViking**
-- [使用指南](./openviking-usage-guide.md)
+- [使用指南](./02-frameworks/openviking.md)
 - [OpenClaw 集成](./openviking-openclaw-integration.md)
 - [z.ai 配置](./openviking-zai-config.md)
 
 ### **4. OpenSage**
-- [自编程智能体引擎](./opensage-self-programming-agent.md)
+- [自编程智能体引擎](./04-advanced/opensage-icml2026.md)
 - [论文解读](https://arxiv.org/abs/2602.16891)
 
 ### **5. MagicSkills**
-- [Skill 基础设施](./magicskills-infrastructure.md)
+- [Skill 基础设施](./02-frameworks/magicskills.md)
 
 ---
 
 ## 🛠️ 工具生态
 
 ### **工具清单**
-- [90个 AI 工具列表](./90-ai-tools-list.md)
-- [Skills Manager](./skills-manager-unified-management.md)
-- [Polymarket 交易生态](./polymarket-trading-ecosystem.md)
+- [90个 AI 工具列表](./03-tools/90-ai-tools-list.md)
+- [Skills Manager](./02-frameworks/skills-manager.md)
+- [Polymarket 交易生态](./03-tools/polymarket-tools.md)
 
 ### **开发工具**
 - [Helius - Rust 财务追踪](./helius-rust-finance-tracker.md)
@@ -53,40 +53,40 @@
 ## 💡 学习方法论
 
 ### **Vibe Coding**
-- [工具全景](./vibe-coding-tools-overview.md)
+- [工具全景](./vibe-coding-tools-summary.md)
 - [工具总结](./vibe-coding-tools-summary.md)
 - [案例研究](./vibe-coding-case-study.md)
 - [TDD 方法](./vibe-tdd-approach.md)
 
 ### **学习方法论**
 - [AI 学习方法论](./ai-learning-methodology.md)
-- [代码即语言](./code-as-natural-language.md)
-- [Karpathy 多 Agent 协作](./karpathy-multi-agent-method.md)
+- [代码即语言](./05-case-studies/code-as-prompt.md)
+- Karpathy 多 Agent 协作
 
 ---
 
 ## 🔬 前沿研究
 
 ### **记忆系统**
-- [MSA - 稀疏注意力记忆](./msa-memory-sparse-attention-deep.md)
-- [OpenViking - 分层记忆](./openviking-usage-guide.md)
+- [MSA - 稀疏注意力记忆](./04-advanced/msa-memory.md)
+- [OpenViking - 分层记忆](./02-frameworks/openviking.md)
 - [Agent 记忆对比](./agent-memory-research.md)
 
 ### **多智能体**
-- [TradingAgents - 30.5% 年化](./tradingagents-system.md)
-- [Agency-agents - 147个 Agent](./agency-agents-147-agents.md)
+- [TradingAgents - 30.5% 年化](./03-tools/trading-agents.md)
+- Agency-agents - 147个 Agent
 
 ---
 
 ## 💼 实战案例
 
 ### **交易案例**
-- [Polymarket 套利](./polymarket-arbitrage-case.md)
-- [MiroFish 预测](./mirofish-swarm-intelligence.md)
-- [TradingAgents 系统](./tradingagents-system.md)
+- [Polymarket 套利](./05-case-studies/polymarket-arbitrage.md)
+- [MiroFish 预测](./05-case-studies/mirofish-prediction.md)
+- [TradingAgents 系统](./03-tools/trading-agents.md)
 
 ### **开发案例**
-- [响马 - 代码即 Prompt](./code-as-natural-language.md)
+- [响马 - 代码即 Prompt](./05-case-studies/code-as-prompt.md)
 - [Google AI Studio 全栈](./google-ai-studio-fullstack-vibe.md)
 - [Google AI Studio 产品阶段](./google-ai-studio-product-stage.md)
 
@@ -96,7 +96,7 @@
 
 ### **课程和文档**
 - [Agent Skills 官方课程](./agent-skills-course.md)
-- [Claude Code 技能手册](./claude-code-skills-manual.md)
+- Claude Code 技能手册
 - [Claude 全能 Prompt](./claude-all-rounder-prompt.md)
 - [Codex Autoresearch 指南](./codex-autoresearch-guide.md)
 

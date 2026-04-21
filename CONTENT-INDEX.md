@@ -22,11 +22,17 @@
 
 ### **核心概念**
 - [什么是 AI Agent](./01-fundamentals/what-is-agent.md) ⭐ `#beginner` `#concept`
+- [AI Agent 架构详解](./01-fundamentals/ai-agent-architecture.md) ⭐⭐ `#beginner` `#concept` 🆕
+- [Function Calling 工具调用](./01-fundamentals/function-calling.md) ⭐⭐ `#beginner` `#concept` 🆕
+- [RAG 检索增强生成](./01-fundamentals/rag-retrieval-augmented-generation.md) ⭐⭐ `#intermediate` `#concept` 🆕
+- [Prompt Engineering 提示工程](./01-fundamentals/prompt-engineering.md) ⭐⭐ `#beginner` `#concept` 🆕
 - [Vibe Coding 方法论](./01-fundamentals/vibe-coding-intro.md) ⭐ `#beginner` `#methodology`
 - [多智能体系统](./01-fundamentals/multi-agent-systems.md) ⭐ `#intermediate` `#concept`
 
 ### **学习价值**
-- 理解 AI Agent 的本质
+- 理解 AI Agent 的本质与架构
+- 掌握 Function Calling 和 RAG 核心技术
+- 学会 Prompt Engineering 最佳实践
 - 掌握 Vibe Coding 思维
 - 了解多智能体协作
 
@@ -93,6 +99,10 @@
   - 4B 参数干翻 235B RAG
   - 原生稀疏注意力
 
+- [memU 个人记忆系统](./04-advanced/memu-memory-system.md) ⭐⭐⭐ `#intermediate` `#memory` 🆕
+  - 向量数据库 + LLM 记忆管理
+  - 智能关联与语义检索
+
 ### **学习价值**
 - 理解前沿研究
 - 掌握自编程 Agent
@@ -112,7 +122,7 @@
   - 10天完成，已在赚钱
 
 ### **开发案例**
-- [Karpathy 多 Agent](./05-case-studies/karpathy-multi-agent-method.md) ⭐⭐⭐ `#case-study` `#methodology`
+- Karpathy 多 Agent ⭐⭐⭐ `#case-study` `#methodology`
   - 10+ Agent 并行
   - 20分钟轮转
 
@@ -127,7 +137,30 @@
 
 ---
 
-## 🔗 06 - 资源链接
+## 🔗 06 - Agent 工具实战 🆕
+
+### **Claude Code 实战指南**
+- [Claude Code 子代理创建（中文）](./06-agent-tools/claude-code-subagents-cn.md) ⭐⭐⭐ `#intermediate` `#tool` `#claude` 🆕
+  - 子代理 vs 技能 vs Hook 怎么选
+  - `/agents` 命令完整教程
+- [Claude Code 子代理创建（英文）](./06-agent-tools/claude-code-subagents-en.md) ⭐⭐⭐ `#intermediate` `#tool` `#claude` 🆕
+- [Claude Code 技能开发（中文）](./06-agent-tools/claude-code-skills-cn.md) ⭐⭐⭐ `#intermediate` `#tool` `#claude` 🆕
+  - Skill 文件结构与最佳实践
+  - 实战技能开发流程
+- [Claude Code 技能开发（英文）](./06-agent-tools/claude-code-skills-en.md) ⭐⭐⭐ `#intermediate` `#tool` `#claude` 🆕
+
+### **Codex 操作指南**
+- [Codex 完整课程笔记](./06-agent-tools/codex-guide/codex-full-course-guide.md) ⭐⭐⭐ `#beginner` `#tool` `#codex` 🆕
+  - 从零开始学习 OpenAI Codex
+  - 项目管理、权限设置、自动化
+- [Codex Super App 新手指南（中文）](./06-agent-tools/codex-guide/codex-super-app-beginners-zh.md) ⭐⭐⭐ `#beginner` `#tool` `#codex` 🆕
+  - 超级应用功能详解
+  - AI 自主操作电脑实战
+
+### **学习价值**
+- 学会用 Claude Code 构建 Agent 工作流
+- 掌握 Codex 自动化开发
+- 理解 Agent 工具的实战用法
 
 ### **论文**
 - [OpenSage](https://arxiv.org/abs/2602.16891) - ICML 2026
@@ -177,12 +210,13 @@
 ## 📊 统计信息
 
 ### **内容统计**
-- **基础概念**: 3 篇
+- **基础概念**: 7 篇（+4 🆕）
 - **框架工具**: 4 篇
 - **工具生态**: 3 篇
-- **高级主题**: 2 篇
+- **高级主题**: 3 篇（+1 🆕）
 - **实战案例**: 4 篇
-- **总计**: 16 篇核心内容
+- **Agent 工具实战**: 6 篇（🆕 全新板块）
+- **总计**: 27 篇核心内容（+11 🆕）
 
 ### **项目统计**
 - **Fork 项目**: 12 个
@@ -233,6 +267,6 @@
 
 ---
 
-**最后更新**: 2026-03-22 00:30
-**维护者**: @srxly888-creator
-**总数**: 16 篇核心内容 + 12 个 Fork 项目
+**最后更新**: 2026-04-22 06:30
+**维护者**: @srxly888-creator, @nxs9bg24js-tech
+**总数**: 27 篇核心内容 + 12 个 Fork 项目（+11 篇新增内容，63 处断链修复）

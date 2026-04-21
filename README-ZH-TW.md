@@ -185,7 +185,7 @@ Level 3: AI 自動創建 Agent + 拓撲 + 工具（OpenSage）
 
 ## 📄 許可證
 
-本項目採用 MIT 許可證 - 詳見 [LICENSE](LICENSE) 文件
+本項目採用 MIT 許可證 - 詳見 LICENSE 文件
 
 ---
 

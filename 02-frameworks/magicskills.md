@@ -196,7 +196,7 @@ Skills 可复用库
 - **作者**: @axiaisacat
 - **GitHub**: https://github.com/Narwhal-Lab/MagicSkills
 - **Fork**: https://github.com/srxly888-creator/MagicSkills
-- **文档**: [CLI](./doc/cli.md) · [Python API](./doc/python-api.md)
+- **文档**: CLI · Python API
 
 ---
 

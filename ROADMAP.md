@@ -29,11 +29,11 @@
 **学习内容**：
 1. **基础概念**（2小时）
    - [ ] 阅读：[什么是 AI Agent](./01-fundamentals/what-is-agent.md)
-   - [ ] 阅读：[Agent 架构](./01-fundamentals/agent-architecture.md)
+   - [ ] 阅读：Agent 架构
    - [ ] 思考：Agent 和传统软件的区别？
 
 2. **方法论**（1小时）
-   - [ ] 阅读：[Vibe Coding 方法论](./01-fundamentals/vibe-coding.md)
+   - [ ] 阅读：[Vibe Coding 方法论](./01-fundamentals/vibe-coding-intro.md)
    - [ ] 练习：用自然语言描述一个简单任务
 
 3. **实践**（4小时）
@@ -57,18 +57,18 @@
 
 **学习内容**：
 1. **核心框架**（4小时）
-   - [ ] 深入：[MAS Factory 框架](./02-frameworks/masfactory-framework.md)
-   - [ ] 研究：[OpenViking 记忆系统](./02-frameworks/openviking-memory.md)
-   - [ ] 理解：[MagicSkills 基础设施](./02-frameworks/magicskills-infrastructure.md)
+   - [ ] 深入：[MAS Factory 框架](./02-frameworks/mas-factory.md)
+   - [ ] 研究：[OpenViking 记忆系统](./02-frameworks/openviking.md)
+   - [ ] 理解：[MagicSkills 基础设施](./02-frameworks/magicskills.md)
 
 2. **多智能体协作**（2小时）
    - [ ] 阅读：[多智能体系统](./01-fundamentals/multi-agent-systems.md)
-   - [ ] 研究：[Karpathy 的多 Agent 方法](./05-case-studies/karpathy-multi-agent.md)
+   - [ ] 研究：Karpathy 的多 Agent 方法
    - [ ] 设计：一个简单的多 Agent 系统
 
 3. **实战案例**（6小时）
    - [ ] 复现：[Polymarket 套利案例](./05-case-studies/polymarket-arbitrage.md)
-   - [ ] 研究：[MiroFish 预测系统](./04-advanced/mirofish-prediction.md)
+   - [ ] 研究：[MiroFish 预测系统](./05-case-studies/mirofish-prediction.md)
    - [ ] 实验：[代码即 Prompt](./05-case-studies/code-as-prompt.md)
 
 4. **Skill 开发**（4小时）
@@ -95,7 +95,7 @@
 1. **前沿研究**（10小时）
    - [ ] 精读：[OpenSage 论文](./04-advanced/opensage-icml2026.md)（ICML 2026）
    - [ ] 研究：[MSA 记忆机制](./04-advanced/msa-memory.md)
-   - [ ] 理解：[自编程 Agent](./04-advanced/self-programming-agents.md)
+   - [ ] 理解：自编程 Agent
    - [ ] 对比：OpenSage vs MAS Factory
 
 2. **深度实践**（10小时）
@@ -193,7 +193,7 @@
 ## 🔗 相关链接
 
 - [README](./README.md) - 仓库总览
-- [CONTRIBUTING](./CONTRIBUTING.md) - 贡献指南
+- CONTRIBUTING - 贡献指南
 - [案例研究](./05-case-studies/) - 实战案例
 - [工具清单](./03-tools/) - 90+ AI 工具
 
