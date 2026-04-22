@@ -28,6 +28,12 @@
 - [Prompt Engineering 提示工程](./01-fundamentals/prompt-engineering.md) ⭐⭐ `#beginner` `#concept` 🆕
 - [Vibe Coding 方法论](./01-fundamentals/vibe-coding-intro.md) ⭐ `#beginner` `#methodology`
 - [多智能体系统](./01-fundamentals/multi-agent-systems.md) ⭐ `#intermediate` `#concept`
+- [MCP 模型上下文协议](./01-fundamentals/mcp-model-context-protocol.md) ⭐⭐⭐ `#intermediate` `#protocol` 🆕
+  - Anthropic 发布，AI 的 USB-C 接口
+  - 工具集成开放标准
+- [Agent 设计模式大全](./01-fundamentals/agent-design-patterns.md) ⭐⭐⭐ `#intermediate` `#architecture` 🆕
+  - 从单 Agent 到多 Agent 协作
+  - 11 种设计模式详解
 
 ### **学习价值**
 - 理解 AI Agent 的本质与架构
@@ -58,6 +64,13 @@
 
 - [Skills Manager](./02-frameworks/skills-manager.md) ⭐⭐ `#intermediate` `#tool`
   - 统一管理 15+ AI 编程工具
+
+- [Agent 编排框架对比](./02-frameworks/agent-orchestration-comparison.md) ⭐⭐⭐ `#intermediate` `#framework` 🆕
+  - LangGraph vs CrewAI vs AutoGen vs Swarm
+  - 选型建议与代码示例
+- [A2A Agent-to-Agent 协议](./02-frameworks/a2a-agent-to-agent-protocol.md) ⭐⭐⭐ `#intermediate` `#protocol` 🆕
+  - Google 发布，Agent 间的 HTTP 协议
+  - 与 MCP 互补：MCP 管 Agent↔Tool，A2A 管 Agent↔Agent
 
 ### **学习价值**
 - 掌握主流框架
@@ -102,6 +115,13 @@
 - [memU 个人记忆系统](./04-advanced/memu-memory-system.md) ⭐⭐⭐ `#intermediate` `#memory` 🆕
   - 向量数据库 + LLM 记忆管理
   - 智能关联与语义检索
+
+- [Agent 控制面 (Control Plane)](./04-advanced/agent-control-plane.md) ⭐⭐⭐ `#advanced` `#infrastructure` 🆕
+  - 生产级 Agent 管理基础设施
+  - 可观测性、成本管理、限流、智能路由
+- [Agent 安全与护栏](./04-advanced/agent-safety-guardrails.md) ⭐⭐⭐ `#advanced` `#security` 🆕
+  - Prompt 注入防护、沙箱执行、Human-in-the-loop
+  - Guardrails AI / NeMo Guardrails 框架
 
 ### **学习价值**
 - 理解前沿研究
@@ -210,13 +230,13 @@
 ## 📊 统计信息
 
 ### **内容统计**
-- **基础概念**: 7 篇（+4 🆕）
-- **框架工具**: 4 篇
+- **基础概念**: 9 篇（+2 🆕）
+- **框架工具**: 6 篇（+2 🆕）
 - **工具生态**: 3 篇
-- **高级主题**: 3 篇（+1 🆕）
+- **高级主题**: 5 篇（+2 🆕）
 - **实战案例**: 4 篇
 - **Agent 工具实战**: 6 篇（🆕 全新板块）
-- **总计**: 27 篇核心内容（+11 🆕）
+- **总计**: 33 篇核心内容（+6 🆕）
 
 ### **项目统计**
 - **Fork 项目**: 12 个
@@ -267,6 +287,6 @@
 
 ---
 
-**最后更新**: 2026-04-22 06:30
+**最后更新**: 2026-04-23
 **维护者**: @srxly888-creator, @nxs9bg24js-tech
-**总数**: 27 篇核心内容 + 12 个 Fork 项目（+11 篇新增内容，63 处断链修复）
+**总数**: 33 篇核心内容 + 12 个 Fork 项目（+6 篇新增：MCP/设计模式/框架对比/A2A/控制面/安全）
