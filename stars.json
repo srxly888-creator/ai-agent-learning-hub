@@ -1,19 +1,19 @@
 {
-  "date": "2026-05-20T06:09:35+00:00",
+  "date": "2026-05-21T06:12:19+00:00",
   "repos": {
-    "karpathy/autoresearch": 82090
+    "karpathy/autoresearch": 82396
 ,
-    "666ghj/MiroFish": 61316
+    "666ghj/MiroFish": 61430
 ,
-    "langchain-ai/langgraph": 32463
+    "langchain-ai/langgraph": 32566
 ,
-    "assafelovic/gpt-researcher": 27178
+    "assafelovic/gpt-researcher": 27196
 ,
-    "openai/swarm": 21512
+    "openai/swarm": 21514
 ,
-    "volcengine/OpenViking": 24227
+    "volcengine/OpenViking": 24340
 ,
-    "BUPT-GAMMA/MASFactory": 397
+    "BUPT-GAMMA/MASFactory": 399
 ,
     "kangfenmao/cherry-studio": 41
 
