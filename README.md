@@ -152,8 +152,8 @@ ai-agent-learning-hub/
 
 | 项目 | Stars | 特点 | GitHub | 学习价值 |
 |------|-------|------|--------|----------|
-| **Auto-Research** | ~88.9k | Karpathy最新，AI自主研究 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐⭐⭐⭐⭐ |
-| **MiroFish** | ~67.3k | 群体智能引擎，预测万物 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ⭐⭐⭐⭐⭐ |
+| **Auto-Research** | ~89.0k | Karpathy最新，AI自主研究 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐⭐⭐⭐⭐ |
+| **MiroFish** | ~67.4k | 群体智能引擎，预测万物 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ⭐⭐⭐⭐⭐ |
 | **LangGraph** | ~35.9k | 图结构工作流编排 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐⭐⭐⭐⭐ |
 | **GPT Researcher** | ~27.9k | 自主研究Agent | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐⭐⭐⭐ |
 | **Swarm** | ~21.7k | OpenAI多智能体协作 | [openai/swarm](https://github.com/openai/swarm) | ⭐⭐⭐⭐⭐ |
