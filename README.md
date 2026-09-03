@@ -152,12 +152,12 @@ ai-agent-learning-hub/
 
 | 项目 | Stars | 特点 | GitHub | 学习价值 |
 |------|-------|------|--------|----------|
-| **Auto-Research** | ~95.0k | Karpathy最新，AI自主研究 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐⭐⭐⭐⭐ |
+| **Auto-Research** | ~95.1k | Karpathy最新，AI自主研究 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐⭐⭐⭐⭐ |
 | **MiroFish** | ~71.8k | 群体智能引擎，预测万物 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ⭐⭐⭐⭐⭐ |
-| **LangGraph** | ~40.8k | 图结构工作流编排 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐⭐⭐⭐⭐ |
+| **LangGraph** | ~40.9k | 图结构工作流编排 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐⭐⭐⭐⭐ |
 | **GPT Researcher** | ~29.2k | 自主研究Agent | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐⭐⭐⭐ |
 | **Swarm** | ~21.9k | OpenAI多智能体协作 | [openai/swarm](https://github.com/openai/swarm) | ⭐⭐⭐⭐⭐ |
-| **OpenViking** | ~35.0k | 分层记忆系统 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ⭐⭐⭐⭐ |
+| **OpenViking** | ~35.2k | 分层记忆系统 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ⭐⭐⭐⭐ |
 | **MAS Factory** | ~549 | Vibe Graphing | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) | ⭐⭐⭐⭐ |
 | **Cherry Studio** | ~62 | AI客户端 | [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) | ⭐⭐⭐ |
 
